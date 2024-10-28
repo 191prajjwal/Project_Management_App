@@ -1,0 +1,6 @@
+[submodule "Project_Management_Client"]
+	path = Project_Management_Client
+	url = https://github.com/191prajjwal/Project_Management_Client.git
+[submodule "Project_Management_Server"]
+	path = Project_Management_Server
+	url = https://github.com/191prajjwal/Project_Management_Server.git
