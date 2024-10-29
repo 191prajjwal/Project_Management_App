@@ -8,6 +8,27 @@
 
   
   
+
+<h2>Project Screenshots:</h2>
+
+![Project Screenshot](./public/register.png)
+![Project Screenshot](./public/login.png)
+![Project Screenshot](./public/emptyBoard.png)
+![Project Screenshot](./public/add.png)
+![Project Screenshot](./public/board.png)
+![Project Screenshot](./public/edit.png)
+![Project Screenshot](./public/assign.png)
+![Project Screenshot](./public/dashboard.png)
+![Project Screenshot](./public/assignedTask.png)
+![Project Screenshot](./public/settings.png)
+![Project Screenshot](./public/analytics.png)
+![Project Screenshot](./public/share.png)
+![Project Screenshot](./public/error.png)
+
+
+
+
+
 <h2>🧐 Features</h2>
 
 Here're some of the project's best features:
